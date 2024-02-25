@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+My name is Kelian Gaedecke and I am currently doing my master degree at EPFL🔭 in chemistry!
+I am currently oriented in physical and computationnal chemistry! 🔭
+
 <!--
 **KelianGaedecke/KelianGaedecke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
